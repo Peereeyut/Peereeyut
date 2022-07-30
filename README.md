@@ -39,7 +39,7 @@
 
 ## Special aptitude, interest in computer engineering
 <p align='left'>
-  <a>sgdff</a>
+  <a>I'm interesting subject "305341 Computer Network" because i need to work pentest so 305341 is basic to do woking</a>
 
 </p>
 
